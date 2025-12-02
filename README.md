@@ -4,7 +4,7 @@ A complete end-to-end data analysis project that visualizes **9,551 restaurants*
 ---
 
 ## 📊 **Project Snapshot**
-[snapshot](https://github.com/user-attachments/assets/237519bb-16f9-4aa5-a40d-3507aafeb063)
+![snapshot](https://github.com/user-attachments/assets/237519bb-16f9-4aa5-a40d-3507aafeb063)
 
 ---
 
