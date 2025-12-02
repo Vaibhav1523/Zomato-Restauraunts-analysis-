@@ -4,10 +4,7 @@ A complete end-to-end data analysis project that visualizes **9,551 restaurants*
 ---
 
 ## 📊 **Project Snapshot**
-![Zomato Dashboard](d![snapshot](https://github.com/user-attachments/assets/237519bb-16f9-4aa5-a40d-3507aafeb063)
-ashboard.png)
-
-*(Tip: Save your dashboard image as `assets/dashboard.png` in your GitHub repo.)*
+[snapshot](https://github.com/user-attachments/assets/237519bb-16f9-4aa5-a40d-3507aafeb063)
 
 ---
 
@@ -90,5 +87,4 @@ Created for year-based filtering and time intelligence.
 ## 🧮 **DAX Measures (Used in Dashboard)**
 
 ```DAX
-Online Delivery (Yes) =
-CALCULATE(COUNTROWS(Restaurants), Restaurants[Online_Delivery] = "Yes")
+
